@@ -2,6 +2,8 @@
 
 - Make sure install aws-cli
 - Check your `~/.aws/credentials`
+- Change OAUTH_TOKEN  
+  * path:`chalicelib/base_config`
 
 ## Deploying
  - If you run `chalice deploy` you can deploy to cloud
